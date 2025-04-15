@@ -6,3 +6,13 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.pinyin-editor-tone1 { color: #ff8080; }
+.pinyin-editor-tone2 { color: #80ff80; }
+.pinyin-editor-tone3 { color: #8080ff; }
+.pinyin-editor-tone4 { color: #df80ff; }
+
+.pinyin-preview-tone1 { color: #ff8080; }
+.pinyin-preview-tone2 { color: #80ff80; }
+.pinyin-preview-tone3 { color: #8080ff; }
+.pinyin-preview-tone4 { color: #df80ff; }
